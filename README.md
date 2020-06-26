@@ -10,3 +10,10 @@ control input (u). This formulation is equivalent to linear quadratic regulator 
 problem. The objective function is reformulated as quadratic programming problem
 which has unique analytical solution. Furthermore, we also use gradient descent algo-
 rithm to arrive at approximated solution which is compared to analytical solution.
+
+
+**Some Resutls**
+
+Optimum temperature distribution. |  Optimum control input u(x).
+----- | -----
+<img src="b11.pdf" width="90%">| <img src="b13.pdf" width="90%" >
