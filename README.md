@@ -16,4 +16,8 @@ rithm to arrive at approximated solution which is compared to analytical solutio
 
 Optimum temperature distribution |  Optimum control input u(x)
 ----- | -----
-<div align="center"><img src="b11-1.png" width="60%">|<div align="center"><img src="b13-1.png" width="60%" >
+<img src="b11-1.png" width="60%">|<img src="b13-1.png" width="60%" >
+
+Optimum temperature distribution  (Box constraint)|  Optimum control input u(x) (Box constraint)
+----- | -----
+<img src="b12-1.png" width="60%">|<img src="b14-1.png" width="60%" >
