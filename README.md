@@ -16,4 +16,5 @@ rithm to arrive at approximated solution which is compared to analytical solutio
 
 Optimum temperature distribution. |  Optimum control input u(x).
 ----- | -----
-<img src="b11-1.png" width="60%">| <img src="b13-1.png" width="60%" >
+<div align="center">
+<img src="b11-1.png" width="60%">|<div align="center"> <img src="b13-1.png" width="60%" >
